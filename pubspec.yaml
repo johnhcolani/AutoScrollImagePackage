@@ -1,5 +1,5 @@
 name: auto_scroll_image
-description: "By integrating Auto Scroll Image, you gain the capability to effortlessly incorporate scrolling advertisements tailored to your app's content. This versatile feature enhances the visual appeal of your app and injects a dynamic and engaging element into its interface. Whether showcasing products, promotions, or captivating visuals related to your app's subject matter, Auto Scroll Image ensures a lively and interactive user experience.
+description: "By integrating Auto Scroll Image, you gain the capability to effortlessly incorporate scrolling advertisements tailored to your app's content. Whether showcasing products, promotions, or captivating visuals related to your app's subject matter, Auto Scroll Image ensures a lively and interactive user experience.
 Moreover, it is compatible with iOS, Android, macOS, and web platforms, offering a seamless scrolling experience across a diverse range of devices, making your app stand out with vibrant and attention-grabbing content."
 repository: "https://github.com/johnhcolani/AutoScrollImagePackage.git"
 version: 0.2.7-dev
